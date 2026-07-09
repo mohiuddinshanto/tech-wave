@@ -254,6 +254,6 @@ Possible improvements for the project:
 
 You can view the live project here:
 
-* [https://muhiuddinshanto.github.io/tech-wave/]
+* [https://mohiuddinshanto.github.io/tech-wave/]
 
 
